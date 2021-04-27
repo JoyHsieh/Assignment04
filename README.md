@@ -25,6 +25,7 @@ A **ssage scenario** explains how and why a user may interact with the product.
 #### How Peter is using this product
 >Peter makes an account and chooses a prompt to respond to under the “Create” tab. He records a video of himself speaking in Mandarin, and uploads it to the app. The complete story appears in the “My Story” tab with subtitles on the video and two transcriptions: one in Mandarin and one in English.  
 He gathers the emails of all ten of his kids and grandkids and puts them into the app under the “Share” tab. They receive a message every time he uploads a response, and can also see his responses chronologically or in the order that he responded in. They can leave reactions and comments on his stories under the “My Story” tab. 
+
 ![Peter-Journey](Peter-Journey.png)
 ### 2: Marlene Williams
 #### Why Marlene is using this product
@@ -34,6 +35,7 @@ He gathers the emails of all ten of his kids and grandkids and puts them into th
 > Marlene reads through recommended beginners prompts under the “Prompts” tab, and clicks a checkbox on the ones she likes to select them. She then clicks “Schedule” and the app creates a schedule that shows Marlene when the prompts will be texted to her mom throughout the week, spaced out so that her mom doesn’t get overwhelmed or tired of responding.  
 > Marlene’s mom receives an email and a text with a prompt that encourages her to share a story about her life. It asks her to log the year that the story took place.  
 > At the end of the week, Marlene receives an email summary of her mom’s responses. She can also view these in the app at anytime she wants, in chronological order or the order that her mom responded in under the "My Story" tab.
+
 ![Marlene-Journey](Marlene-Journey.png)
 
 ## Credits
