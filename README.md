@@ -1,12 +1,13 @@
 # Assignment 04: UX Storytelling - Joy Hsieh, DH110
-## The Purpose of UX Storytelling
+## Background
+### The Purpose of UX Storytelling
 > **UX storytelling** is a way of giving users a voice and showing off their point of view. It's a method of presenting findings gathered during the user research phase of ideation.
 Creating a **persona** helps individual designers shift their own perspectives and guides teams of designers towards a unifed perception of the users. A persona's traits is based off of patterns uncovered from the ethnographic user data.
 An **empathy map** brings life to the persona created, and makes it easier to relate to them and design with them in mind.
 A **user journey** makes the storytelling even more realistic, and shows how a product could actually help a user.
 A **ssage scenario** explains how and why a user may interact with the product.
 
-## Proposed Features
+### Proposed Features
 1. **Multilingual Storytelling Platform** - provides users with prompts that cue them to share a short story about their lives. Entries can be typed, voice recorded, or video recorded in any language. Recordings are transcribed and saved with the voice or video files. Entries can be quickly translated into any language, and users are free to edit the translations.
 2. **Email/Text Integration** - lets users send prompts to others. When a user recieves a prompt, they can reply to it with a response and it will be saved to the Storytelling Platform. Users may submit a voice or video recording that will be uploaded and transcribed.
 
@@ -18,7 +19,7 @@ A **ssage scenario** explains how and why a user may interact with the product.
 ![Marlene-Williams-Persona](Marlene-Williams-Persona.png)
 ![Marlene-Williams-Map](Marlene-Williams-Map.png)
 
-## Scenarios
+## Scenarios & Journey Maps
 ### 1: Peter Chao
 #### Why Peter is using this product
 > Peter is approaching the end of his life, and has been thinking about all of the lessons he’s learned over the years. He wants to communicate them to his kids and grandkids, all ten of them, so that they can make wise choices in their lives. Everyone leads such busy lifes and live in so many places that it’s hard for them to get together all at once, and when they do it’s for a holiday-- not quite the right environment to share his whole life story. He also gets tired of talking after a long period of time, and sometimes he can’t find the right English word for the feelings he can describe so well in Chinese.
