@@ -5,7 +5,7 @@
 Creating a **persona** helps individual designers shift their own perspectives and guides teams of designers towards a unifed perception of the users. A persona's traits is based off of patterns uncovered from the ethnographic user data.
 An **empathy map** brings life to the persona created, and makes it easier to relate to them and design with them in mind.
 A **user journey** makes the storytelling even more realistic, and shows how a product could actually help a user.
-A **ssage scenario** explains how and why a user may interact with the product.
+A **usage scenario** explains how and why a user may interact with the product.
 
 ### Proposed Features
 1. **Multilingual Storytelling Platform** - provides users with prompts that cue them to share a short story about their lives. Entries can be typed, voice recorded, or video recorded in any language. Recordings are transcribed and saved with the voice or video files. Entries can be quickly translated into any language, and users are free to edit the translations.
